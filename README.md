@@ -1,2 +1,3 @@
-# ICT-systems
-Website
+# ICT Systems
+
+Website & Graphics Design
